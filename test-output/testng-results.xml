@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="188550" started-at="2020-06-26T16:52:31Z" finished-at="2020-06-26T16:55:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="188550" started-at="2020-06-26T16:52:31Z" finished-at="2020-06-26T16:55:39Z">
+      <class name="testToDo.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="10979" started-at="2020-06-26T16:52:31Z" finished-at="2020-06-26T16:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ReactToDoMvc()[pri:1, instance:testToDo.HomePageTest@5622fdf]" name="ReactToDoMvc" duration-ms="933" started-at="2020-06-26T16:52:42Z" finished-at="2020-06-26T16:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReactToDoMvc -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="676" started-at="2020-06-26T16:52:43Z" finished-at="2020-06-26T16:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="9786" started-at="2020-06-26T16:52:44Z" finished-at="2020-06-26T16:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCharToDos()[pri:2, instance:testToDo.HomePageTest@5622fdf]" name="addCharToDos" duration-ms="3345" started-at="2020-06-26T16:52:53Z" finished-at="2020-06-26T16:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCharToDos -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="718" started-at="2020-06-26T16:52:57Z" finished-at="2020-06-26T16:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="10666" started-at="2020-06-26T16:52:57Z" finished-at="2020-06-26T16:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editingToDo()[pri:3, instance:testToDo.HomePageTest@5622fdf]" name="editingToDo" duration-ms="8597" started-at="2020-06-26T16:53:08Z" finished-at="2020-06-26T16:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editingToDo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="699" started-at="2020-06-26T16:53:17Z" finished-at="2020-06-26T16:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="10516" started-at="2020-06-26T16:53:17Z" finished-at="2020-06-26T16:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="comboOfIntCharSpecCharToDo()[pri:4, instance:testToDo.HomePageTest@5622fdf]" name="comboOfIntCharSpecCharToDo" duration-ms="8366" started-at="2020-06-26T16:53:28Z" finished-at="2020-06-26T16:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comboOfIntCharSpecCharToDo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="712" started-at="2020-06-26T16:53:36Z" finished-at="2020-06-26T16:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="10676" started-at="2020-06-26T16:53:37Z" finished-at="2020-06-26T16:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="toDoWithSpaceBar()[pri:5, instance:testToDo.HomePageTest@5622fdf]" name="toDoWithSpaceBar" duration-ms="8242" started-at="2020-06-26T16:53:48Z" finished-at="2020-06-26T16:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toDoWithSpaceBar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="873" started-at="2020-06-26T16:53:56Z" finished-at="2020-06-26T16:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="9490" started-at="2020-06-26T16:53:57Z" finished-at="2020-06-26T16:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DuplicateToDos()[pri:6, instance:testToDo.HomePageTest@5622fdf]" name="DuplicateToDos" duration-ms="13544" started-at="2020-06-26T16:54:06Z" finished-at="2020-06-26T16:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DuplicateToDos -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="701" started-at="2020-06-26T16:54:20Z" finished-at="2020-06-26T16:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="9564" started-at="2020-06-26T16:54:20Z" finished-at="2020-06-26T16:54:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="InfiniteCharToDo()[pri:7, instance:testToDo.HomePageTest@5622fdf]" name="InfiniteCharToDo" duration-ms="24887" started-at="2020-06-26T16:54:30Z" finished-at="2020-06-26T16:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InfiniteCharToDo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="697" started-at="2020-06-26T16:54:55Z" finished-at="2020-06-26T16:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="10007" started-at="2020-06-26T16:54:56Z" finished-at="2020-06-26T16:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletionOfToDos()[pri:8, instance:testToDo.HomePageTest@5622fdf]" name="deletionOfToDos" duration-ms="4167" started-at="2020-06-26T16:55:06Z" finished-at="2020-06-26T16:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletionOfToDos -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="678" started-at="2020-06-26T16:55:10Z" finished-at="2020-06-26T16:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="9816" started-at="2020-06-26T16:55:10Z" finished-at="2020-06-26T16:55:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DownWardArrowWithCompletedTab()[pri:9, instance:testToDo.HomePageTest@5622fdf]" name="DownWardArrowWithCompletedTab" duration-ms="3669" started-at="2020-06-26T16:55:20Z" finished-at="2020-06-26T16:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownWardArrowWithCompletedTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="1292" started-at="2020-06-26T16:55:24Z" finished-at="2020-06-26T16:55:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="setUp" is-config="true" duration-ms="9784" started-at="2020-06-26T16:55:25Z" finished-at="2020-06-26T16:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="downWardArrowWithActiveTab()[pri:10, instance:testToDo.HomePageTest@5622fdf]" name="downWardArrowWithActiveTab" duration-ms="3677" started-at="2020-06-26T16:55:35Z" finished-at="2020-06-26T16:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downWardArrowWithActiveTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testToDo.HomePageTest@5622fdf]" name="tearDown" is-config="true" duration-ms="738" started-at="2020-06-26T16:55:39Z" finished-at="2020-06-26T16:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testToDo.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
