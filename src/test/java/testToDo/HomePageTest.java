@@ -73,7 +73,7 @@ public class HomePageTest extends TestBase {
 		.sendKeys(Keys.BACK_SPACE)
 		.sendKeys("Test")
 		.build().perform();
-		Thread.sleep(5000);;
+		Thread.sleep(5000);
 		Actions actions1 = new Actions(driver);
 		  actions1.sendKeys(Keys.ENTER).perform();
 		}
