@@ -1,7 +1,9 @@
 package testToDo;
 
 import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import toDo.BasePackage.TestBase;
@@ -35,7 +37,7 @@ public void LinkOnHomePage() throws InterruptedException {
 
 
 
-
+//@AfterTest
 @AfterMethod
 public void tearDown() {
 	driver.quit();

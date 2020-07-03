@@ -174,7 +174,7 @@ public class HomePageTest extends TestBase {
 		
 	}
     
-//	@AfterTest
+	//@AfterTest
  	@AfterMethod
 	public void tearDown() {
 		driver.quit();
